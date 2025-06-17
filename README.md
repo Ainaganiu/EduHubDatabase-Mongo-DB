@@ -9,3 +9,9 @@ This project implements the core MongoDB database backend for "EduHub," an onlin
 - Document insertion and data modeling
 - Full CRUD operations
 - The system supports key functionalities like student enrollment, instructor course management, lesson/assignment tracking, assignment submission/grading, and student progress monitoring.
+
+  ## How to Clone
+
+To clone this repository, run:
+
+bash ``` git clone ```
