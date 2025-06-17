@@ -14,4 +14,18 @@ This project implements the core MongoDB database backend for "EduHub," an onlin
 
 To clone this repository, run:
 
-bash ``` git clone ```
+bash ``` git clone https://github.com/Ainaganiu/EduHubDatabase-Mongo-DB.git```
+
+## How to Run
+Prerequisites:
+
+Python 3.x  and pymongo installed on your system.
+**Steps**:
+- Navigate to the project directory: ```cd EduhubDatabase-Mongo_DB```
+- Navigate to a subfolder: ``` cd Code ```
+
+To check the python scripts file ``` python eduhub.py```
+
+To check the ipynb (Notebook) file ``` eduhub.ipynb```
+
+  THANK YOU!!!1
