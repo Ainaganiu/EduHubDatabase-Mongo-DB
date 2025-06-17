@@ -22,7 +22,8 @@ Prerequisites:
 Python 3.x  and pymongo installed on your system.
 **Steps**:
 - Navigate to the project directory: ```cd EduhubDatabase-Mongo_DB```
-- Navigate to a subfolder: ``` cd Code ```
+- Navigate to a see the code subfolder: ``` cd Code ```
+- Navigate to see all dataset used in this project: ``` cd data ```
 
 To check the python scripts file ``` python eduhub.py```
 
