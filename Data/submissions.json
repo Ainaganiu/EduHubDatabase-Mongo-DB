@@ -1,0 +1,98 @@
+[
+  {
+    "submissionId": "S001",
+    "assignmentId": "A001",
+    "userId": "U001",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 70,
+    "feedback": "Well done!"
+  },
+  {
+    "submissionId": "S002",
+    "assignmentId": "A002",
+    "userId": "U002",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 71,
+    "feedback": "Try harder next time."
+  },
+  {
+    "submissionId": "S003",
+    "assignmentId": "A003",
+    "userId": "U003",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 72,
+    "feedback": "Well done!"
+  },
+  {
+    "submissionId": "S004",
+    "assignmentId": "A004",
+    "userId": "U004",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 73,
+    "feedback": "Try harder next time."
+  },
+  {
+    "submissionId": "S005",
+    "assignmentId": "A005",
+    "userId": "U005",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 74,
+    "feedback": "Well done!"
+  },
+  {
+    "submissionId": "S006",
+    "assignmentId": "A006",
+    "userId": "U006",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 75,
+    "feedback": "Try harder next time."
+  },
+  {
+    "submissionId": "S007",
+    "assignmentId": "A007",
+    "userId": "U007",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 76,
+    "feedback": "Well done!"
+  },
+  {
+    "submissionId": "S008",
+    "assignmentId": "A008",
+    "userId": "U008",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 77,
+    "feedback": "Try harder next time."
+  },
+  {
+    "submissionId": "S009",
+    "assignmentId": "A009",
+    "userId": "U009",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 78,
+    "feedback": "Well done!"
+  },
+  {
+    "submissionId": "S010",
+    "assignmentId": "A010",
+    "userId": "U010",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 79,
+    "feedback": "Try harder next time."
+  },
+  {
+    "submissionId": "S011",
+    "assignmentId": "A001",
+    "userId": "U011",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 80,
+    "feedback": "Well done!"
+  },
+  {
+    "submissionId": "S012",
+    "assignmentId": "A002",
+    "userId": "U012",
+    "submittedAt": "2024-06-25T14:00:00Z",
+    "grade": 81,
+    "feedback": "Try harder next time."
+  }
+]

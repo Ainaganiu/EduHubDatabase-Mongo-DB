@@ -1,0 +1,107 @@
+[
+  {
+    "enrollmentId": "E001",
+    "userId": "U001",
+    "courseId": "C101",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 0
+  },
+  {
+    "enrollmentId": "E002",
+    "userId": "U002",
+    "courseId": "C102",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 10
+  },
+  {
+    "enrollmentId": "E003",
+    "userId": "U003",
+    "courseId": "C103",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 20
+  },
+  {
+    "enrollmentId": "E004",
+    "userId": "U004",
+    "courseId": "C104",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 30
+  },
+  {
+    "enrollmentId": "E005",
+    "userId": "U005",
+    "courseId": "C105",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 40
+  },
+  {
+    "enrollmentId": "E006",
+    "userId": "U006",
+    "courseId": "C106",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 50
+  },
+  {
+    "enrollmentId": "E007",
+    "userId": "U007",
+    "courseId": "C107",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 60
+  },
+  {
+    "enrollmentId": "E008",
+    "userId": "U008",
+    "courseId": "C108",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 70
+  },
+  {
+    "enrollmentId": "E009",
+    "userId": "U009",
+    "courseId": "C101",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 80
+  },
+  {
+    "enrollmentId": "E010",
+    "userId": "U010",
+    "courseId": "C102",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 90
+  },
+  {
+    "enrollmentId": "E011",
+    "userId": "U011",
+    "courseId": "C103",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 0
+  },
+  {
+    "enrollmentId": "E012",
+    "userId": "U012",
+    "courseId": "C104",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 10
+  },
+  {
+    "enrollmentId": "E013",
+    "userId": "U013",
+    "courseId": "C105",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 20
+  },
+  {
+    "enrollmentId": "E014",
+    "userId": "U014",
+    "courseId": "C106",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 30
+  },
+  {
+    "enrollmentId": "E015",
+    "userId": "U015",
+    "courseId": "C107",
+    "enrolledAt": "2024-06-10T12:00:00Z",
+    "progress": 40
+  }
+]

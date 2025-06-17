@@ -1,0 +1,342 @@
+[
+  {
+    "userId": "U001",
+    "email": "user1@example.com",
+    "firstName": "First1",
+    "lastName": "Last1",
+    "role": "instructor",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U002",
+    "email": "user2@example.com",
+    "firstName": "First2",
+    "lastName": "Last2",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U003",
+    "email": "user3@example.com",
+    "firstName": "First3",
+    "lastName": "Last3",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U004",
+    "email": "user4@example.com",
+    "firstName": "First4",
+    "lastName": "Last4",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U005",
+    "email": "user5@example.com",
+    "firstName": "First5",
+    "lastName": "Last5",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U006",
+    "email": "user6@example.com",
+    "firstName": "First6",
+    "lastName": "Last6",
+    "role": "instructor",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U007",
+    "email": "user7@example.com",
+    "firstName": "First7",
+    "lastName": "Last7",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U008",
+    "email": "user8@example.com",
+    "firstName": "First8",
+    "lastName": "Last8",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U009",
+    "email": "user9@example.com",
+    "firstName": "First9",
+    "lastName": "Last9",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U010",
+    "email": "user10@example.com",
+    "firstName": "First10",
+    "lastName": "Last10",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U011",
+    "email": "user11@example.com",
+    "firstName": "First11",
+    "lastName": "Last11",
+    "role": "instructor",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U012",
+    "email": "user12@example.com",
+    "firstName": "First12",
+    "lastName": "Last12",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U013",
+    "email": "user13@example.com",
+    "firstName": "First13",
+    "lastName": "Last13",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U014",
+    "email": "user14@example.com",
+    "firstName": "First14",
+    "lastName": "Last14",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U015",
+    "email": "user15@example.com",
+    "firstName": "First15",
+    "lastName": "Last15",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U016",
+    "email": "user16@example.com",
+    "firstName": "First16",
+    "lastName": "Last16",
+    "role": "instructor",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U017",
+    "email": "user17@example.com",
+    "firstName": "First17",
+    "lastName": "Last17",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U018",
+    "email": "user18@example.com",
+    "firstName": "First18",
+    "lastName": "Last18",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U019",
+    "email": "user19@example.com",
+    "firstName": "First19",
+    "lastName": "Last19",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "Python",
+        "Excel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "userId": "U020",
+    "email": "user20@example.com",
+    "firstName": "First20",
+    "lastName": "Last20",
+    "role": "student",
+    "dateJoined": "2024-06-01T12:00:00Z",
+    "profile": {
+      "bio": "This is a sample bio.",
+      "avatar": "",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ]
+    },
+    "isActive": true
+  }
+]

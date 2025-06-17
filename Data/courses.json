@@ -1,0 +1,138 @@
+[
+  {
+    "courseId": "C101",
+    "title": "Course Title 1",
+    "description": "Course description here.",
+    "instructorId": "U001",
+    "category": "Programming",
+    "level": "beginner",
+    "duration": 10,
+    "price": 20.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C102",
+    "title": "Course Title 2",
+    "description": "Course description here.",
+    "instructorId": "U006",
+    "category": "Business",
+    "level": "intermediate",
+    "duration": 11,
+    "price": 25.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C103",
+    "title": "Course Title 3",
+    "description": "Course description here.",
+    "instructorId": "U011",
+    "category": "Data Science",
+    "level": "advanced",
+    "duration": 12,
+    "price": 30.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C104",
+    "title": "Course Title 4",
+    "description": "Course description here.",
+    "instructorId": "U016",
+    "category": "Design",
+    "level": "beginner",
+    "duration": 13,
+    "price": 35.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C105",
+    "title": "Course Title 5",
+    "description": "Course description here.",
+    "instructorId": "U001",
+    "category": "Programming",
+    "level": "intermediate",
+    "duration": 14,
+    "price": 40.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C106",
+    "title": "Course Title 6",
+    "description": "Course description here.",
+    "instructorId": "U006",
+    "category": "Business",
+    "level": "advanced",
+    "duration": 15,
+    "price": 45.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C107",
+    "title": "Course Title 7",
+    "description": "Course description here.",
+    "instructorId": "U011",
+    "category": "Data Science",
+    "level": "beginner",
+    "duration": 16,
+    "price": 50.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  },
+  {
+    "courseId": "C108",
+    "title": "Course Title 8",
+    "description": "Course description here.",
+    "instructorId": "U016",
+    "category": "Design",
+    "level": "intermediate",
+    "duration": 17,
+    "price": 55.0,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "isPublished": true
+  }
+]

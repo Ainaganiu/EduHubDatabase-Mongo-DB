@@ -1,0 +1,72 @@
+[
+  {
+    "assignmentId": "A001",
+    "courseId": "C101",
+    "title": "Assignment 1",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A002",
+    "courseId": "C102",
+    "title": "Assignment 2",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A003",
+    "courseId": "C103",
+    "title": "Assignment 3",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A004",
+    "courseId": "C104",
+    "title": "Assignment 4",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A005",
+    "courseId": "C105",
+    "title": "Assignment 5",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A006",
+    "courseId": "C106",
+    "title": "Assignment 6",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A007",
+    "courseId": "C107",
+    "title": "Assignment 7",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A008",
+    "courseId": "C108",
+    "title": "Assignment 8",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A009",
+    "courseId": "C101",
+    "title": "Assignment 9",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  },
+  {
+    "assignmentId": "A010",
+    "courseId": "C102",
+    "title": "Assignment 10",
+    "description": "Assignment description.",
+    "dueDate": "2024-06-30T23:59:00Z"
+  }
+]
